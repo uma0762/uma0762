@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uma0762
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning required programmig languafes
+- 🌱 I’m currently learning required programmig languages
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
